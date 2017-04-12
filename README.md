@@ -1,0 +1,2 @@
+# ORA-
+Repozitoriul ORA - USARB este o arhivă electonică a documentelor ştiinţifice, educaţionale, de reglamentare elaborate de catre cadrele didactice şi bibliotecarii USARB, precum şi de alte persoane, care au publicat materiale şi la alte edituri, dar au transmis USARB-ului dreptul de a le plasa pe internet.  Arhiva electronică  instituţională a fost iniţiată în anul 2013 de către bibliotecarii universitari bălţeni. Adresa on-line a Arhivei ORA – USARB: http://libruniv.usarb.md:8080/jspui/
